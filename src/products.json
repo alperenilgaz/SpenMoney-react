@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "title":"Sakız",
+        "price":0.5,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWvwOUY2iVm4dBGt5jYaBksaJmc999fW5zfA&usqp=CAU"
+
+
+    },
+    {
+        "id":2,
+        "title":"Kola",
+        "price":6,
+        "image":"https://cdn.dsmcdn.com/ty27/product/media/images/20201127/18/33097970/72710961/1/1_org_zoom.jpg"
+
+    },
+    {
+        "id":3,
+        "title":"Ayakkabı",
+        "price":400,
+        "image":"https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/167945e1-5da5-4da7-8eea-19154c5cf1b5/air-jordan-1-zoom-comfort-2-ayakkabısı-SxTMMC.png"
+    },
+    {
+        "id":4,
+        "title":"Araba",
+        "price":40000,
+        "image":"https://medias.fcacanada.ca/jellies/renditions/2022/800x510/CC22_LADH22_2DA_PAU_APA_XXX_XXX_XXX.d9643ac73d361ac50f4d6cff0a9a4e78.png"
+    }
+]
